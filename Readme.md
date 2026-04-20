@@ -1,76 +1,64 @@
-# 🟢 Jerónimo.exe
+# 🚀 Hey, I'm Jerónimo 👨‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Initializing+system...;Backend+Developer;Java+Core+Loaded;AI+Module+Loading..." />
-
-```bash
-> booting system...
-
-> whoami
-Jeronimo Torres
-
-> role
-Backend Developer
-
-> stack
-Java | Python | JavaScript | MySQL | MongoDB
-
-> status
-Always learning...
-```
+<img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Specialist;Building+Scalable+Systems;Future+AI+Engineer" />
 
 ---
 
-## 🧠 About.exe
+## 🌌 About Me
 
-* 🎯 Focus: Becoming a high-level backend engineer
-* 🧩 Problem solver by nature
-* 🚀 Building, breaking, improving
+✨ Passionate about backend development
+⚡ Turning ideas into scalable systems
+🧠 Exploring AI and modern architectures
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Universe
 
-💻 Languages
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=java\&logoColor=00FF00)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=00FF00)
+💡 Languages
+![Java](https://img.shields.io/badge/Java-FF00FF?style=for-the-badge\&logo=java\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF00FF?style=for-the-badge\&logo=python\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql\&logoColor=00FF00)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb\&logoColor=00FF00)
+![MySQL](https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge\&logo=mysql\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge\&logo=mongodb\&logoColor=black)
 
 ---
 
-## 📊 System Stats
+## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=3105jero\&show_icons=true\&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=3105jero\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero\&layout=compact\&theme=chartreuse-dark\&langs_count=10)
-
----
-
-## 🐍 Activity
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero\&layout=compact\&theme=tokyonight\&langs_count=10)
 
 ---
 
-## 🎯 Current Mission
+## 🔥 Featured Projects
 
-* 🤖 Integrating AI into backend systems
-* 🏗️ Designing scalable architectures
-* 📈 Writing cleaner and smarter code
+🚧 Coming soon... but something big is cooking 👀
 
 ---
 
-## 🧠 Philosophy
+## 🎯 Current Objectives
 
-> "If you can think it, you can program it."
+* 🤖 AI integration in real-world apps
+* 🏗️ Backend scalability & performance
+* 📈 Clean architecture & best practices
 
 ---
 
-```bash
-> exit
+## 🎧 Now Playing
 
-System.out.println("See you in production 🚀");
-```
+💻 Building: ManageSchool
+☕ Fuel: Coffee
+🧠 Mode: Learning
+
+---
+
+## 🌠 Dev Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+✨ *Designing the future, one line of code at a time...*
