@@ -29,7 +29,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=3105jero\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero\&layout=compact\&theme=tokyonight)
 
 ---
 
