@@ -107,7 +107,7 @@ REST API with complete CRUD over 16 database tables, MVC pattern, Bootstrap 5 fr
 
 | 💻 Building | ☕ Fuel | 🧠 Mode |
 |-------------|---------|---------|
-| HotelNova + Integrator project | Coffee | Learning & Shipping |
+| Integrator project | Coffee | Learning & Shipping |
 
 ---
 
