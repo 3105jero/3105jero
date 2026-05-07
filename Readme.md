@@ -1,35 +1,45 @@
 # 🚀 Hey, I'm Jerónimo 👨‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Specialist;Building+Scalable+Systems;Future+AI+Engineer" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Specialist;Building+Scalable+Systems;Future+AI+Engineer" />
+</p>
 
 ---
 
 ## 🌌 About Me
 
-✨ Passionate about backend development
-⚡ Turning ideas into scalable systems
-🧠 Exploring AI and modern architectures
+✨ Passionate about backend development  
+⚡ Turning ideas into scalable systems  
+🧠 Exploring AI and modern architectures  
 
 ---
 
 ## 🛠️ Tech Universe
 
-💡 Languages
-![Java](https://img.shields.io/badge/Java-FF00FF?style=for-the-badge\&logo=java\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FF00FF?style=for-the-badge\&logo=python\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge\&logo=javascript\&logoColor=black)
+### 💡 Languages
 
-🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge\&logo=mysql\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge\&logo=mongodb\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Java-FF00FF?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=black" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=3105jero\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero\&layout=compact\&theme=tokyonight\&langs_count=10)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=FFFFFF&langs_count=8" />
+</p>
 
 ---
 
@@ -41,17 +51,17 @@
 
 ## 🎯 Current Objectives
 
-* 🤖 AI integration in real-world apps
-* 🏗️ Backend scalability & performance
-* 📈 Clean architecture & best practices
+- 🤖 AI integration in real-world apps  
+- 🏗️ Backend scalability & performance  
+- 📈 Clean architecture & best practices  
 
 ---
 
 ## 🎧 Now Playing
 
-💻 Building: ManageSchool
-☕ Fuel: Coffee
-🧠 Mode: Learning
+💻 Building: **ManageSchool**  
+☕ Fuel: **Coffee**  
+🧠 Mode: **Learning**  
 
 ---
 
@@ -61,4 +71,6 @@
 
 ---
 
-✨ *Designing the future, one line of code at a time...*
+<p align="center">
+  ✨ <i>Designing the future, one line of code at a time...</i>
+</p>
