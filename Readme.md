@@ -1,12 +1,16 @@
 # 🚀 Hey, I'm Jerónimo 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Specialist;Building+Scalable+Systems;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=30&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Specialist;Building+Scalable+Systems;Future+AI+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=3105jero&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
 
 ✨ Passionate about backend development  
 ⚡ Turning ideas into scalable systems  
@@ -14,11 +18,11 @@
 
 ---
 
-## 🛠️ Tech Universe
+# 🛠️ Tech Universe
 
 ### 💡 Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-FF00FF?style=for-the-badge&logo=openjdk&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,14 +30,14 @@
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=black" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em"
@@ -45,29 +49,29 @@
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
 🚧 Coming soon... but something big is cooking 👀
 
 ---
 
-## 🎯 Current Objectives
+# 🎯 Current Objectives
 
-- 🤖 AI integration in real-world apps  
-- 🏗️ Backend scalability & performance  
-- 📈 Clean architecture & best practices  
+- 🤖 AI integration in real-world apps
+- 🏗️ Backend scalability & performance
+- 📈 Clean architecture & best practices
 
 ---
 
-## 🎧 Now Playing
+# 🎧 Now Playing
 
-💻 Building: **Integrator proyect**  
+💻 Building: **Integrator project**  
 ☕ Fuel: **Coffee**  
-🧠 Mode: **Learning**  
+🧠 Mode: **Learning**
 
 ---
 
-## 🌠 Dev Quote
+# 🌠 Dev Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 
