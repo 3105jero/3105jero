@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jer%C3%B3nimo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Developer;Java+%26+Spring+Boot+Specialist;Building+Scalable+Systems;Future+AI+Engineer" alt="Typing SVG" />
 </h1>
-
+---
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=3105jero&theme=tokyonight&no-frame=true&row=1&column=6" alt="trofeos" />
 </p>
