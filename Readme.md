@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Jeronimo;Backend+Developer;Java+%26+Spring+Boot;Building+Scalable+Systems;Exploring+AI+%26+Automation" alt="Typing SVG" />
-</h1>
+</p>
 
 
 <p align="center">
