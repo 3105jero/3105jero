@@ -12,7 +12,7 @@
 
 > Computer science student from Medellín 🇨🇴, passionate about backend architecture and clean code. I don't just follow tutorials — I build real systems.
 
-- 🏗️ Currently building **HotelNova** — hotel management in Java + Spring Boot + PostgreSQL
+- 🏗️ Currently building **LIBROCHAT** — chatbot management in Java + Spring Boot + PostgreSQL + APIKEY
 - 🧪 Writing production-grade tests with **JUnit 5 & Mockito**
 - 🤖 Exploring **AI integration** in real-world apps (LLM APIs, n8n, automation)
 - 📐 Obsessed with **SOLID principles** and Service → DAO layer separation
