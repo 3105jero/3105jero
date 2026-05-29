@@ -3,10 +3,11 @@
 </p>
 
 
+<!--
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3105jero&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=3105jero&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
-
+-->
 ---
 
 ## 🌌 About Me
