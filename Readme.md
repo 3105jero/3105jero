@@ -2,131 +2,131 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Jeronimo;Backend+Developer;Java+%26+Spring+Boot;Building+Scalable+Systems;Exploring+AI+%26+Automation" alt="Typing SVG" />
 </p>
 
-
 <!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=3105jero&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 -->
----
-
-## 🌌 About Me
-
-> Computer science student from Medellín 🇨🇴, passionate about backend architecture and clean code. I don't just follow tutorials — I build real systems.
-
-- 🏗️ Currently building **LIBROCHAT** — chatbot management in Java + Spring Boot + PostgreSQL + APIKEY
-- 🧪 Writing production-grade tests with **JUnit 5 & Mockito**
-- 🤖 Exploring **AI integration** in real-world apps (LLM APIs, n8n, automation)
-- 📐 Obsessed with **SOLID principles** and Service → DAO layer separation
-- ⚡ Turning ideas into scalable, testable, maintainable systems
-- ☕ Fuel: coffee &nbsp;|&nbsp; 🧠 Mode: always learning
 
 ---
 
-## 🛠️ Tech Universe
+# 🌌 About Me
 
-### 💡 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-FF00FF?style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-FF00FF?style=for-the-badge&logo=php&logoColor=black" />
-</p>
+> Computer Science student from Medellín 🇨🇴 focused on backend development, software architecture, and building maintainable systems.
 
-### 🧩 Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-00FFFF?style=for-the-badge&logo=springboot&logoColor=black" />
-  <img src="https://img.shields.io/badge/JUnit_5-00FFFF?style=for-the-badge&logo=junit5&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mockito-00FFFF?style=for-the-badge&logo=java&logoColor=black" />
-  <img src="https://img.shields.io/badge/Maven-00FFFF?style=for-the-badge&logo=apachemaven&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-00FFFF?style=for-the-badge&logo=bootstrap&logoColor=black" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=black" />
-</p>
-
-### ⚙️ Environment
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/XAMPP-FF00FF?style=for-the-badge&logo=xampp&logoColor=black" />
-</p>
+- 🛡️ Building **Centinela**, a secure backend platform focused on authentication, authorization, and scalable APIs.
+- ☕ Developing production-ready applications with **Java**, **Spring Boot**, and **PostgreSQL**.
+- 🧪 Writing reliable tests with **JUnit 5** and **Mockito**.
+- 🤖 Exploring **AI integrations**, **LLM APIs**, automation, and **n8n**.
+- 📐 Passionate about **Clean Architecture**, **SOLID principles**, and scalable backend design.
+- 🚀 Always learning and building real-world software.
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack
+
+## 💡 Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Java-FF00FF?style=for-the-badge&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-FF00FF?style=for-the-badge&logo=php&logoColor=black"/>
 </p>
 
+## ⚙️ Backend & Frameworks
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3105jero&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://img.shields.io/badge/Spring_Boot-00FFFF?style=for-the-badge&logo=springboot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Security-00FFFF?style=for-the-badge&logo=springsecurity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JWT-00FFFF?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Maven-00FFFF?style=for-the-badge&logo=apachemaven&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JUnit_5-00FFFF?style=for-the-badge&logo=junit5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mockito-00FFFF?style=for-the-badge&logo=java&logoColor=black"/>
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=black"/>
+</p>
+
+## 🧰 Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-FF00FF?style=for-the-badge&logo=intellijidea&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF00FF?style=for-the-badge&logo=postman&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-FF00FF?style=for-the-badge&logo=githubactions&logoColor=black"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
-
-### 🏨 HotelNova
-> Full hotel management system built from scratch in Java
-
-Layered MVC architecture (Service → ServiceImpl → DAO → DAOImpl → DB), JDBC with PostgreSQL, BCrypt authentication, CSV export, console mode and Swing UI, full JUnit 5 & Mockito test coverage.
-
-**Stack:**&nbsp;
-`Java` `Spring Boot` `PostgreSQL` `JDBC` `JUnit 5` `Mockito` `BCrypt` `Swing`
-
----
-
-### 👨‍🏫 Gestión Profesoral
-> Academic management REST API — full stack
-
-REST API with complete CRUD over 16 database tables, MVC pattern, Bootstrap 5 frontend, deployed on XAMPP.
-
-**Stack:**&nbsp;
-`PHP` `MySQL` `Bootstrap 5` `REST API` `MVC`
-
----
-
-## 🎯 Current Objectives
-
-```
-[▓▓▓▓▓░░░░░]  Ship HotelNova with full Spring Boot REST API
-[▓▓░░░░░░░░]  Integrate an LLM API into a real project
-[▓░░░░░░░░░]  Contribute to an open source Java project
-[▓░░░░░░░░░]  Land first dev internship / freelance project
-```
-
----
-
-## 🎧 Now Playing
-
-| 💻 Building | ☕ Fuel | 🧠 Mode |
-|-------------|---------|---------|
-| Integrator project | Coffee | Learning & Shipping |
-
----
-
-## 🌠 Dev Quote
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3105jero&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ Centinela
+
+> Secure backend platform built with Java and Spring Boot.
+
+Centinela is a backend application focused on authentication, authorization, user management, and secure REST APIs. The project follows Clean Architecture and SOLID principles while emphasizing scalability, maintainability, and high-quality testing.
+
+### Tech
+
+`Java` • `Spring Boot` • `Spring Security` • `JWT` • `PostgreSQL` • `JUnit 5` • `Mockito` • `REST API`
+
+---
+
+## 👨‍🏫 Gestión Profesoral
+
+> Academic management REST API.
+
+REST API with complete CRUD operations following the MVC pattern, backed by MySQL and a Bootstrap frontend.
+
+### Tech
+
+`JAVA` • `MySQL` • `Bootstrap 5` • `REST API`
+
+---
+
+# 🎧 Currently
+
+| 💻 Building | ☕ Fuel | 🧠 Focus |
+|-------------|---------|----------|
+| Centinela | Coffee | Backend Engineering |
+
+---
+
+# 🌠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/3105jero">
-    <img src="https://img.shields.io/badge/GitHub-3105jero-FF00FF?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-3105jero-FF00FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  ✨ <i>Designing the future, one line of code at a time...</i>
+  <i>Building secure, scalable, and maintainable backend systems.</i> 🚀
 </p>
