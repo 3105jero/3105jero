@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Jeronimo;Backend+Developer;Java+%26+Spring+Boot;Building+Scalable+Systems;Exploring+AI+%26+Automation" alt="Typing SVG" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3105jero&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
-</p>
--->
-
 ---
 
 # 🌌 About Me
@@ -66,11 +60,16 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics & Activity Overview
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Gráfico general de desglose de actividad (Commits, PRs, Reviews, Issues) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3105jero&theme=tokyonight" alt="GitHub Activity Overview" />
 </p>
 
 <p align="center">
