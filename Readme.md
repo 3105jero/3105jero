@@ -62,7 +62,10 @@
 
 # 📊 GitHub Analytics & Activity Overview
 
-<p align="center"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=3105jero&theme=tokyonight&hide_border=true" alt="streak stats" /> </p>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true" /> 
+
 <!-- Contribution Graph exacto con tema tokyonight -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3105jero&theme=tokyonight" alt="GitHub Activity Overview" />
