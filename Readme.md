@@ -69,7 +69,7 @@
 
 <!-- Contribution Graph exacto con tema tokyonight -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3105jero&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3105jero&theme=tokyonight" alt="GitHub Activity Overview" />
 </p>
 
 <!-- Streak Stats -->
