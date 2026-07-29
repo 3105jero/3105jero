@@ -63,15 +63,16 @@
 # 📊 GitHub Analytics & Activity Overview
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=3105jero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=3105jero&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Gráfico morado de contribuciones que te gustó -->
+<!-- Contribution Graph exacto con tema tokyonight -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3105jero&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3105jero&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=3105jero&theme=tokyonight&hide_border=true" />
 </p>
